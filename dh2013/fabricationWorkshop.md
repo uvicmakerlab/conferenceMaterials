@@ -4,9 +4,9 @@ Digital Humanities 2013, Lincoln, NE
 
 Tuesday, July 16, 2013 (8am - 5pm) 
 
-Jeremy Boggs, Design Architect for Digital Research and Scholarship in the Scholars’ Lab, at the University of Virginia Library
-Devon Elliott, PhD candidate in History at Western University
-Jentery Sayers, Assistant Professor of English at the University of Victoria
+* Jeremy Boggs, Design Architect for Digital Research and Scholarship in the Scholars’ Lab, at the University of Virginia Library
+* Devon Elliott, PhD candidate in History at Western University
+* Jentery Sayers, Assistant Professor of English at the University of Victoria
 
 ## Description
 Desktop fabrication is the digitization of analog manufacturing techniques. Comparable to desktop publishing, it affords the output of digital content (e.g., 3D models) in physical form (e.g., plastic). It also personalizes production through accessible software and hardware, with more flexibility and rapidity than its analog predecessors. Additive manufacturing is a process whereby a 3D form is constructed by building successive layers of a melted source material (at the moment, this is most often some type of plastic). The technology driving additive manufacturing in the desktop fabrication field is the 3D printer, tabletop devices that materialize digital 3D models.
