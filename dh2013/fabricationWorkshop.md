@@ -1,4 +1,6 @@
-# Desktop Fabrication Workshop (Digital Humanities 2013, Lincoln, NE) 
+# Desktop Fabrication Workshop 
+
+Digital Humanities 2013, Lincoln, NE
 
 Tuesday, July 16, 2013 (8am - 5pm) 
 
