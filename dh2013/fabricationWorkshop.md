@@ -40,16 +40,17 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 ## Schedule
 
 * 8:00-8:30: Introductions (entire group)
-* 8:30-9:30: Selecting and Modeling an Object Already in the World (Jentery) 
-* 9:30-10:30: Acquiring a Model Online: Some Options (Jeremy)
-* 10:30-10:45: Break 
-* 10:45-11:45: Using 3D Sensors to Model Objects (Devon) 
+* 8:30-9:30: Acquiring a Model Online (Jeremy)
+* 9:30-10:30: Printing 3D Models (Jeremy)
+* 10:30-10:45: Break
+* 10:45-11:45: Selecting and Modeling an Object Already in the World (Jentery)
 * 11:45-1:00: Lunch
-* 1:00-1:45: Using Photogrammetry to Model Objects (Jentery) 
+* 1:00-1:45: Using Photogrammetry to Model Objects (Jentery)
 * 1:45-2:00: Break
-* 2:00-3:00: Editing and Rectifying 3D Models: Software and Workflows (Devon) 
-* 3:00-4:00: Printing 3D Models (Jeremy) 
-* 4:00-5:00: Group Discussion: Next Steps? 
+* 2:00-3:00: Using 3D Sensors to Model Objects (Devon)
+* 3:00-4:00: Editing and Rectifying 3D Models: Software and Workflows (Devon)
+* 4:00-5:00: Group Discussion: Next Steps?
+
 
 ## Materials 
 
