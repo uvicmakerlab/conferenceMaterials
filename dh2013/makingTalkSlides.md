@@ -1,4 +1,4 @@
-# Made to Make: Expanding Digital Humanities through Desktop Fabrication
+## Made to Make: Expanding Digital Humanities through Desktop Fabrication
 Digital Humanities 2013 | Lincoln, NE
 
 ## 0 | Title Slide
