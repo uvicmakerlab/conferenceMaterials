@@ -70,14 +70,52 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 
 ## Resource List / Bibliography 
 
-(complete by Tuesday, July 9) 
+Balsamo, Anne. (2009). Anne Balsamo: Videos and Frameworks for “Tinkering” in a Digital Age. Spotlight on Digital Media and Learning. URL: http://spotlight.macfound.org/blog/entry/anne-balsamo-tinkering-videos
 
-## To-Do List (as of Tuesday, July 2, 1:30 Pacific) 
+Elliott, Devon, Robert MacDougall, and William J. Turkel. (2012). New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice. Canadian Journal of Communication, 37 (1), 121-128.
 
-* Finalize schedule by Tuesday, July 9
-* Complete resource list / bib by Tuesday, July 9
-* Touch base about travel and logistics by Thursday, July 11
-* What else? 
+Elliott, Devon, Jentery Sayers, and William J. Turkel (2013). Digital Humanities Summer Institute 2013 Coursepak: "Physical Computing and Desktop Fabrication for Humanists." http://dhsi.org/content/2013Curriculum/8.%20Physical%20Computing%20and%20Desktop%20Fabrication%20for%20Humanists%202013.pdf. 
+
+Gershenfeld, Neil. (2005). FAB: The Coming Revolution on Your Desktop—From Personal Computers to Personal Fabrication. New York: Basic Books.
+
+Hertz, Garnet. (2009). Methodologies of Reuse in the Media Arts: Exploring Black Boxes, Tactics and Archaeologies. University of California Irvine.
+
+Lehmann, Steffen & Robert Crocker, eds. (2012). Designing for Zero Waste Consumption, Technologies and the Built Environment. New York: Earthscan.
+
+MacDougall, Robert. (2011). Convention of cranks: Why the nineteenth century’s golden age of pseudoscience may be a precursor of our own. SCOPE, 1 (2), 12-23. URL: http://www.scope-mag.com/issues/spring-2011/convention-of-cranks/.
+
+McDonough, William, & Michael Braungart. (2002). Cradle to Cradle: Remaking the Way We Make Things. New York: North Point Press.
+
+Make: Ultimate Guide to 3D Printing. http://makezine.com/volume/make-ultimate-guide-to-3d-printing/.
+
+Meadows, George, & Tim Owens. (2012). Mashups and Makerbots: Building in the Virtual and Physical Worlds. Syllabus URL: http://umwthinklab.com/2012/08/22/syllabus/
+
+Paulos, Eric, Kris Fallon, and Chris Myers. Critical Making: Materials, Protocols, and Culture. http://make.berkeley.edu/. 
+
+Ramsay, Stephen, & Geoffrey Rockwell. (2012). Developing Things: Notes Toward an Epistemology of Building in the Digital Humanities. Debates in the Digital Humanities. Minneapolis: University of Minnesota Press.
+
+Ratto, M. (2011) “Critical Making: conceptual and material studies in technology and social life”, The Information Society 27(4).
+
+Ratto, Matt & Robert Ree. (2012). Materializing information: 3D printing and social change. First Monday, 17 (7). URL: http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/3968/3273
+
+Ross, Claire, et al. Engaging the Museum Space: Mobilising Visitor Engagement with Digital Content Creation. Talk. Digital Humanities 2012. Hamburg, Germany. http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/engaging-the-museum-space-mobilising-visitor-engagement-with-digital-content-creation/.
+
+Sayers, Jentery. (2012). Tinker-Centric Pedagogy in Literature and Language Classrooms. Collaborative Approaches to the Digital in English Studies. Logan: Computers and Composition Digital Press. URL: http://ccdigitalpress.org/cad/Ch10_Sayers.pdf
+
+Sterling, Bruce. (2005). Shaping Things. Cambridge: The MIT Press.
+
+---. (2009). Design Fiction. interactions, 16 (3), 20-24.
+
+Terdiman, Daniel. (2012). Smithsonian turns to 3D to bring collection to the world. c|net. URL:http://news.cnet.com/8301-13772_3-57384166-52/smithsonian-turns-to-3d-to-bring-collection-to-the-world/
+
+Thingiverse. http://www.thingiverse.com/.
+
+Turkel, William J. (2011). Intervention: Hacking history, from analogue to digital and back again. Rethinking History, 15 (2), 287-296.
+
+Turkel, William J. & Devon Elliott. (Forthcoming). Making and playing with models: Using rapid prototyping to explore the history and technology of stage magic. In Kevin Kee (Ed.), Past Play.
+
+Unsworth, John. "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
+
 
 
 
