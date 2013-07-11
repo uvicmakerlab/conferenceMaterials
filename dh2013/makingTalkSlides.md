@@ -53,7 +53,7 @@ Notes for now: This paper presents substantive, cross-institutional research con
 * familiar with digitization and preservation issues 
 * also, digital methods as necessary interpretive 
 
-## 7 | RESEARCH QUESTIONS
+## 7 | Research Questions 
 
 1) What are the best procedures for digitizing rare or obscure 3D objects? 
 2) What steps should be taken to verify the integrity of 3D models? 
@@ -65,7 +65,7 @@ Notes for now: This paper presents substantive, cross-institutional research con
 8) How are fabricated objects best used for humanities research? 
 9) What roles should galleries, libraries, archives, and museums (GLAM) play in these processes?
 
-## 8 | FINDINGS I 
+## 8 | Findings I 
  
 Sample Workflow: 
 
