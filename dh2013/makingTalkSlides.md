@@ -2,8 +2,6 @@
 
 ## Made to Make: Expanding Digital Humanities through Desktop Fabrication
 
-IMAGE
-
 Jentery Sayers (University of Victoria), Jeremy Boggs (University of Virginia), and Devon Elliott (Western University)
 
 Scholars’ Lab (University of Virginia), the Humanistic Fabrication Lab (Western University), and the Maker Lab in the Humanities (University of Victoria) 
