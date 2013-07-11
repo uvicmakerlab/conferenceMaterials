@@ -1,16 +1,21 @@
-# 0 | Title Slide
+# Made to Make: Expanding Digital Humanities through Desktop Fabrication
+Digital Humanities 2013 | Lincoln, NE
 
-## Made to Make: Expanding Digital Humanities through Desktop Fabrication
+## 0 | Title Slide
+
+"Made to Make: Expanding Digital Humanities through Desktop Fabrication"
 
 Jentery Sayers (University of Victoria), Jeremy Boggs (University of Virginia), and Devon Elliott (Western University)
 
 Scholars’ Lab (University of Virginia), the Humanistic Fabrication Lab (Western University), and the Maker Lab in the Humanities (University of Victoria) 
 
-# 1 | Talk Overview 
+Digital Humanities 2013 | University of Nebraska-Lincoln | 18 July 2013
+
+## 1 | Talk Overview 
 
 Notes for now: This paper presents substantive, cross-institutional research conducted on the relevance of desktop fabrication to digital humanities research. The researchers argue that matter is a new medium for digital humanities, and—as such—the field’s practitioners need to develop the workflows, best practices, and infrastructure necessary to meaningfully engage digital/material convergence, especially as it concerns the creation, preservation, exhibition, and delivery of cultural heritage materials in 3D. Aside from sharing example workflows, best practices, and infrastructure strategies, the paper identifies several key growth areas for desktop fabrication in digital humanities contexts. Ultimately, it demonstrates how digital humanities is “made to make,” or already well-positioned to contribute significantly to desktop fabrication research.  
 
-# 2 | Defining Desktop Fabrication 
+## 2 | Defining Desktop Fabrication 
 
 * digitization of analog manufacturing techniques (Gershenfeld 2005)
 * affords the output of digital content (e.g., 3D models) in physical form (e.g., plastic) 
@@ -19,7 +24,7 @@ Notes for now: This paper presents substantive, cross-institutional research con
 * applications: prototype, replicate, and refashion solid objects 
 *  “Personal fabrication will bring the programmability of digital worlds we've invented to the physical world we inhabit” (Gershenfeld 17). 
 
-# 3 | Environmental Scan
+## 3 | Environmental Scan
 
 * historians build exhibits (Elliott, MacDougall, and Turkel 2012)
 * digital media theorists fashion custom tools (Ratto and Ree 2012)
@@ -28,14 +33,23 @@ Notes for now: This paper presents substantive, cross-institutional research con
 * designers make physical interfaces and mechanical sculptures (Igoe 2007)
 * authors to “design” fiction as well as write it (Bleecker 2009; Sterling 2009). 
 
-# 4 | Digital Humanities? 
+## 4 | Digital Humanities? 
 
 * digital humanities research on desktop fabrication is especially lacking in humanities departments across North America
 * publications on the topic are rare (“desktop fabrication” never appears in the archives of Digital Humanities Quarterly) 
 
-This attention to digital/material convergence has prompted scholars such as Matt Ratto and Robert Ree (2012) to argue for: 1) “physical network infrastructure” that supports “novel spaces for fabrication” and educated decisions in a digital economy, 2) “greater fluency with 3D digital content” to increase competencies in digital/material convergence, and 3) an established set of best practices, especially as open-source objects are circulated online and re-appropriated. 
+## 5 | Current Research Needs
 
-To be sure, digital humanities practitioners are well-equipped to actively engage all three of these issues. The field is known as a field of makers. Its practitioners are invested in knowing by doing, and they have been intimately involved in the development of infrastructure, best practices, and digital competencies (Balsamo 2009; Elliott, MacDougall, and Turkel 2012). They have also engaged digital technologies and content directly, as physical objects with material particulars (Kirschenbaum 2008; McPherson 2009). The key question, then, is how to mobilize the histories and investments of digital humanities to significantly contribute to desktop fabrication research and its role in cultural heritage. 
+* "physical network infrastructure" 
+* "novel spaces for fabrication" and educated decisions about it
+* "greater fluency with 3D digital content" 
+* best practices for open-source objects circulated online 
+* Matt Ratto and Robert Ree (2012) 
+
+## 6 | Digital Humanities Are a Good Fit 
+
+
+and they have been intimately involved in the development of infrastructure, best practices, and digital competencies (Balsamo 2009; Elliott, MacDougall, and Turkel 2012). They have also engaged digital technologies and content directly, as physical objects with material particulars (Kirschenbaum 2008; McPherson 2009). The key question, then, is how to mobilize the histories and investments of digital humanities to significantly contribute to desktop fabrication research and its role in cultural heritage. 
 
 ### RESEARCH QUESTIONS
 
