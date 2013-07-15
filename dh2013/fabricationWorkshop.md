@@ -58,14 +58,15 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * Makerbot Replicator 2 (at least 1) 
 * Kinect Sensor (at least 3) 
 * ReconstructMe (at least 3)
+* Kinect Fusion
 * 123D Catch (cloud-based; use 3 different accounts?) 
 * SketchUp (on all laptops) 
-* netfabb Basic (on all laptops) 
+* netfabb Basic (on all laptops) - (http://www.netfabb.com/download.php)
 * MakerWare (on all laptops) 
 * Sample prints (for circulation in the morning) 
 * Digital camera (at least 3, but having just 1 will work) 
-* meshlab? 
-* meshmixer? 
+* MeshLab - (http://meshlab.sourceforge.net/)
+* MeshMixer - (http://www.meshmixer.com/)
 * Mudbox? 
 
 ## Resource List / Bibliography 
@@ -81,6 +82,8 @@ Gershenfeld, Neil. (2005). FAB: The Coming Revolution on Your Desktop—From Per
 Hertz, Garnet. (2009). Methodologies of Reuse in the Media Arts: Exploring Black Boxes, Tactics and Archaeologies. University of California Irvine.
 
 Lehmann, Steffen & Robert Crocker, eds. (2012). Designing for Zero Waste Consumption, Technologies and the Built Environment. New York: Earthscan.
+
+Lipson, Hod, and Melba Kurman. (2013). Fabricated: the new world of 3D printing. Indianapolis: John Wiley & Sons, Inc.
 
 MacDougall, Robert. (2011). Convention of cranks: Why the nineteenth century’s golden age of pseudoscience may be a precursor of our own. SCOPE, 1 (2), 12-23. URL: http://www.scope-mag.com/issues/spring-2011/convention-of-cranks/.
 
