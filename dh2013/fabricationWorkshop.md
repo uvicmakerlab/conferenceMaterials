@@ -62,6 +62,7 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * 123D Catch (cloud-based; use 3 different accounts?) 
 * SketchUp (on all laptops) 
 * netfabb Basic (on all laptops) - (http://www.netfabb.com/download.php)
+* netfabb Cloud - (http://cloud.netfabb.com/)
 * MakerWare (on all laptops) 
 * Sample prints (for circulation in the morning) 
 * Digital camera (at least 3, but having just 1 will work) 
