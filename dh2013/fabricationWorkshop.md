@@ -74,6 +74,8 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 
 Balsamo, Anne. (2009). Anne Balsamo: Videos and Frameworks for “Tinkering” in a Digital Age. Spotlight on Digital Media and Learning. URL: http://spotlight.macfound.org/blog/entry/anne-balsamo-tinkering-videos
 
+Borenstein, Greg. (2012). Making Things See. Sebastopol: O'Reilly.
+
 Elliott, Devon, Robert MacDougall, and William J. Turkel. (2012). New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice. Canadian Journal of Communication, 37 (1), 121-128.
 
 Elliott, Devon, Jentery Sayers, and William J. Turkel (2013). Digital Humanities Summer Institute 2013 Coursepak: "Physical Computing and Desktop Fabrication for Humanists." http://dhsi.org/content/2013Curriculum/8.%20Physical%20Computing%20and%20Desktop%20Fabrication%20for%20Humanists%202013.pdf. 
