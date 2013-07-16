@@ -52,25 +52,24 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * 4:00-5:00: Group Discussion: Next Steps?
 
 
-## Materials 
+## Fabrication Materials 
 
-* Laptops (at least 3) 
-* Makerbot Replicator 2 (at least 1) 
-* Kinect Sensor (at least 3) 
-* ReconstructMe (at least 3) - (http://reconstructme.net/)
+* printrbot - (http://printrbot.com/) 
+* RepRap - (http://reprap.org/wiki/Main_Page) 
+* Makerbot Replicator 2 - (http://store.makerbot.com/replicator2.html)
+* Kinect Sensor - (http://www.microsoft.com/en-us/kinectforwindows/) 
+* ReconstructMe - (http://reconstructme.net/)
 * Kinect Fusion - (http://www.microsoft.com/en-us/kinectforwindows/develop/developer-downloads.aspx)
-* 123D Catch (cloud-based; use 3 different accounts?) - (http://www.123dapp.com/catch)
-* SketchUp (on all laptops) - (http://www.sketchup.com/)
-* netfabb Basic (on all laptops) - (http://www.netfabb.com/download.php)
+* 123D Catch - (http://www.123dapp.com/catch)
+* SketchUp - (http://www.sketchup.com/)
+* netfabb Basic - (http://www.netfabb.com/download.php)
 * netfabb Cloud - (http://cloud.netfabb.com/)
-* MakerWare (on all laptops) - (http://www.makerbot.com/makerware/)
+* MakerWare - (http://www.makerbot.com/makerware/)
 * ReplicatorG - (http://replicat.org/)
 * Thingiverse - (http://www.thingiverse.com/)
-* Sample prints (for circulation in the morning) 
-* Digital camera (at least 3, but having just 1 will work) 
 * MeshLab - (http://meshlab.sourceforge.net/)
 * MeshMixer - (http://www.meshmixer.com/)
-* Mudbox? 
+* Mudbox - (http://www.autodesk.com/products/mudbox/overview) 
 
 ## Resource List / Bibliography 
 
@@ -123,7 +122,4 @@ Turkel, William J. (2011). Intervention: Hacking history, from analogue to digit
 Turkel, William J. & Devon Elliott. (Forthcoming). Making and playing with models: Using rapid prototyping to explore the history and technology of stage magic. In Kevin Kee (Ed.), Past Play.
 
 Unsworth, John. "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
-
-
-
 
