@@ -121,7 +121,7 @@ Sterling, Bruce. (2005). Shaping Things. Cambridge: The MIT Press.
 
 ---. (2009). Design Fiction. interactions, 16 (3), 20-24.
 
-Terdiman, Daniel. (2012). Smithsonian turns to 3D to bring collection to the world. c|net. URL:http://news.cnet.com/8301-13772_3-57384166-52/smithsonian-turns-to-3d-to-bring-collection-to-the-world/
+Terdiman, Daniel. (2012). Smithsonian turns to 3D to bring collection to the world. c|net. URL: http://news.cnet.com/8301-13772_3-57384166-52/smithsonian-turns-to-3d-to-bring-collection-to-the-world/
 
 Thingiverse. http://www.thingiverse.com/.
 
@@ -131,3 +131,4 @@ Turkel, William J. & Devon Elliott. (Forthcoming). Making and playing with model
 
 Unsworth, John. "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
 
+Weinberg, Michael. "What's the Deal with Copyright and 3D Printing?" Whitepaper. URL: http://publicknowledge.org/Copyright-3DPrinting. 
