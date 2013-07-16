@@ -51,7 +51,6 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * 3:00-4:00: Editing and Rectifying 3D Models: Software and Workflows (Devon)
 * 4:00-5:00: Group Discussion: Next Steps?
 
-
 ## Fabrication Materials 
 
 * printrbot - (http://printrbot.com/) 
@@ -70,6 +69,12 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * MeshLab - (http://meshlab.sourceforge.net/)
 * MeshMixer - (http://www.meshmixer.com/)
 * Mudbox - (http://www.autodesk.com/products/mudbox/overview) 
+
+## 123D Models to Edit 
+
+* Nosferatu - (http://www.123dapp.com/obj-Catch/Nos/1362384)
+* printrbot jr. - (http://www.123dapp.com/obj-Catch/3D-Printer/1499719)
+* a rock - (http://www.123dapp.com/obj-Catch/Kate-s-Rock/1499653)
 
 ## Resource List / Bibliography 
 
