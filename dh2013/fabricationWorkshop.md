@@ -98,6 +98,8 @@ Hertz, Garnet. (2009). Methodologies of Reuse in the Media Arts: Exploring Black
 
 Igoe, Tom. (2007). Making Things Talk. Practical Methods for Connecting Physical Objects. Make Objects.  
 
+Kinematic Models for Design Digital Library (KMODDL). URL: http://kmoddl.library.cornell.edu/. 
+
 Lehmann, Steffen & Robert Crocker, eds. (2012). Designing for Zero Waste Consumption, Technologies and the Built Environment. New York: Earthscan.
 
 Lipson, Hod, and Melba Kurman. (2013). Fabricated: the new world of 3D printing. Indianapolis: John Wiley & Sons, Inc.
