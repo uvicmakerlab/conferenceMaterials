@@ -72,6 +72,7 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 * MeshLab - (http://meshlab.sourceforge.net/)
 * MeshMixer - (http://www.meshmixer.com/)
 * Mudbox - (http://www.autodesk.com/products/mudbox/overview) 
+* BotQueue - (https://www.botqueue.com/) 
 
 ## 123D Models to Edit 
 
