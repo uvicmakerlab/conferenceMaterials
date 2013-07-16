@@ -81,6 +81,8 @@ Nebraska Union and Jackie Gaughan Multi-Cultural Center, 14th and R Streets (Sec
 
 ## Resource List / Bibliography 
 
+Ball, Philip. (1999). Made to Measure: New Materials for the 21st Century. Princeton U P.  
+
 Balsamo, Anne. (2009). Anne Balsamo: Videos and Frameworks for “Tinkering” in a Digital Age. Spotlight on Digital Media and Learning. URL: http://spotlight.macfound.org/blog/entry/anne-balsamo-tinkering-videos
 
 Borenstein, Greg. (2012). Making Things See. Sebastopol: O'Reilly.
@@ -89,9 +91,11 @@ Elliott, Devon, Robert MacDougall, and William J. Turkel. (2012). New Old Things
 
 Elliott, Devon, Jentery Sayers, and William J. Turkel (2013). Digital Humanities Summer Institute 2013 Coursepak: "Physical Computing and Desktop Fabrication for Humanists." http://dhsi.org/content/2013Curriculum/8.%20Physical%20Computing%20and%20Desktop%20Fabrication%20for%20Humanists%202013.pdf. 
 
-Gershenfeld, Neil. (2005). FAB: The Coming Revolution on Your Desktop—From Personal Computers to Personal Fabrication. New York: Basic Books.
+Gershenfeld, Neil. (2005). Fab: The Coming Revolution on Your Desktop—From Personal Computers to Personal Fabrication. New York: Basic Books.
 
 Hertz, Garnet. (2009). Methodologies of Reuse in the Media Arts: Exploring Black Boxes, Tactics and Archaeologies. University of California Irvine.
+
+Igoe, Tom. (2007). Making Things Talk. Practical Methods for Connecting Physical Objects. Make Objects.  
 
 Lehmann, Steffen & Robert Crocker, eds. (2012). Designing for Zero Waste Consumption, Technologies and the Built Environment. New York: Earthscan.
 
@@ -103,19 +107,31 @@ McDonough, William, & Michael Braungart. (2002). Cradle to Cradle: Remaking the 
 
 Make: Ultimate Guide to 3D Printing. http://makezine.com/volume/make-ultimate-guide-to-3d-printing/.
 
+Marlow, Frank M. (2004). Machine Shop Essentials. Metal Arts. 
+
 Meadows, George, & Tim Owens. (2012). Mashups and Makerbots: Building in the Virtual and Physical Worlds. Syllabus URL: http://umwthinklab.com/2012/08/22/syllabus/
 
-Paulos, Eric, Kris Fallon, and Chris Myers. Critical Making: Materials, Protocols, and Culture. http://make.berkeley.edu/. 
+Molotch, Harvey. (2005). Where Stuff Comes From: How Toasters, Toilets, Cars, Computers and Many Other Things Come to Be As They Are. Routledge.
+
+O'Sullivan, Dan and Tom Igoe. (2004). Physical Computing: Sensing and Controlling the Physical World with Computers. Thomson. 
+
+Paulos, Eric, Kris Fallon, and Chris Myers (2013). Critical Making: Materials, Protocols, and Culture. http://make.berkeley.edu/. 
 
 Ramsay, Stephen, & Geoffrey Rockwell. (2012). Developing Things: Notes Toward an Epistemology of Building in the Digital Humanities. Debates in the Digital Humanities. Minneapolis: University of Minnesota Press.
+
+Rathje, William and Cullen Murphy. (2001). Rubbish! The Archaeology of Garbage. U of Arizona P. 
 
 Ratto, M. (2011) “Critical Making: conceptual and material studies in technology and social life”, The Information Society 27(4).
 
 Ratto, Matt & Robert Ree. (2012). Materializing information: 3D printing and social change. First Monday, 17 (7). URL: http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/3968/3273
 
-Ross, Claire, et al. Engaging the Museum Space: Mobilising Visitor Engagement with Digital Content Creation. Talk. Digital Humanities 2012. Hamburg, Germany. http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/engaging-the-museum-space-mobilising-visitor-engagement-with-digital-content-creation/.
+Ross, Claire, et al (2012). Engaging the Museum Space: Mobilising Visitor Engagement with Digital Content Creation. Talk. Digital Humanities 2012. Hamburg, Germany. http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/engaging-the-museum-space-mobilising-visitor-engagement-with-digital-content-creation/.
 
 Sayers, Jentery. (2012). Tinker-Centric Pedagogy in Literature and Language Classrooms. Collaborative Approaches to the Digital in English Studies. Logan: Computers and Composition Digital Press. URL: http://ccdigitalpress.org/cad/Ch10_Sayers.pdf
+
+Slade, Giles. (2007). Made to Break: Technology and Obsolescence in America. Harvard U P. 
+
+Szeliski, Richard. Computer Vision: Algorithms and Applications. Springer. URL: http://szeliski.org/Book/. 
 
 Sterling, Bruce. (2005). Shaping Things. Cambridge: The MIT Press.
 
@@ -125,10 +141,14 @@ Terdiman, Daniel. (2012). Smithsonian turns to 3D to bring collection to the wor
 
 Thingiverse. http://www.thingiverse.com/.
 
+Thompson, Rob. (2007). Manufacturing Processes for Design Professionals. Thames and Hudson.  
+
 Turkel, William J. (2011). Intervention: Hacking history, from analogue to digital and back again. Rethinking History, 15 (2), 287-296.
 
 Turkel, William J. & Devon Elliott. (Forthcoming). Making and playing with models: Using rapid prototyping to explore the history and technology of stage magic. In Kevin Kee (Ed.), Past Play.
 
-Unsworth, John. "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
+Unsworth, John (1999). "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
 
-Weinberg, Michael. "What's the Deal with Copyright and 3D Printing?" Whitepaper. URL: http://publicknowledge.org/Copyright-3DPrinting. 
+Weinberg, Michael (2012). "What's the Deal with Copyright and 3D Printing?" Whitepaper. URL: http://publicknowledge.org/Copyright-3DPrinting. 
+
+Woodbury, Robert S. (1973). Studies in the History of Machine Tools. The MIT Press.  
