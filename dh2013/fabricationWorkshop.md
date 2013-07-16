@@ -145,6 +145,8 @@ Thompson, Rob. (2007). Manufacturing Processes for Design Professionals. Thames 
 
 Turkel, William J. (2011). Intervention: Hacking history, from analogue to digital and back again. Rethinking History, 15 (2), 287-296.
 
+---. (2013). Fabrication. URL: http://williamjturkel.net/fabrication/. 
+
 Turkel, William J. & Devon Elliott. (Forthcoming). Making and playing with models: Using rapid prototyping to explore the history and technology of stage magic. In Kevin Kee (Ed.), Past Play.
 
 Unsworth, John (1999). "The Library as Laboratory." Presentation at the Annual Meeting of the American Library Association, 1999. URL: http://www3.isrl.illinois.edu/~unsworth/ala99.htm.
