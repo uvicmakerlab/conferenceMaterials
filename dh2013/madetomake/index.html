@@ -5,15 +5,15 @@
 
   <title>Made to Make: Expanding Digital Humanities through Desktop Fabrication</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic|Noto+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="reveal.min.css">
 		<link rel="stylesheet" href="theme.css" id="theme">
 </head>
 <body>
 <div class="reveal">
   <div class="slides">
-<section class="slide">
-  <h1>Made to Make</h2>
+    <section id="first">
+  <h1>Made to Make</h1>
   <h2>Expanding Digital Humanities through Desktop Fabrication</h2>
 
   <h3>Digital Humanities 2013 | University of Nebraska-Lincoln | 18 July 2013</h3>
@@ -27,9 +27,11 @@
 
 <section class="slide">
   <h1>Today</h2>
+  <ul>
   <li>How is desktop fabrication relevant to digital humanities?</li>
   <li>What are its research implications?</li>
   <li>Review some case studies from across our three labs and elsewhere.</li>
+  </ul>
 </section>
 
 <section class="slide">
@@ -195,7 +197,11 @@ people at work, enticing the curious, exposing the process.</p>
 
 		<script>
 
-			Reveal.initialize();
+			Reveal.initialize({
+        transition: 'fade',
+        backgroundTransition: 'fade',
+        controls: false
+      });
 
 		</script>
 </body>

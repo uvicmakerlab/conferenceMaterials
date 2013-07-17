@@ -1,30 +1,33 @@
 html {
-  background:url('purty_wood.png') bottom left;
   font-family: "Noto Serif", serif;
-  padding:0;
+  color: #333;
+background:-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, #969696), color-stop(100%, transparent)) -1px 0 repeat-x,-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, rgba(200,200,200,0.5)), color-stop(100%, transparent)) -1px 0 repeat-x,-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, rgba(200,200,200,0.25)), color-stop(100%, transparent)) -1px 0 repeat-x;background:-webkit-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-webkit-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-webkit-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:-moz-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-moz-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-moz-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:-o-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-o-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-o-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;-pie-background:linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;
+background-size:96px 30px, 12px 20px, 6px 15px;
 }
 
-
-header h1 {
-  font-size: 120px;
-  margin-bottom:0;
+section {
+  background: rgba(255,255,255,0.9);
+  color: #333;
+  padding: 3em;
 }
 
-header h2 {
-  font-size: 60px;
-  margin-top:0;
-}
-header h3 {
-  font-size: 30px;
+.slides {
+  width: 80%;
 }
 
-header ul {
-  font-size: 30px;
+h1,h2,h3,p,ul,ol {
+  margin: 0 0 1em !important;
 }
 
-.slide {
-  background-color: rgba(0,0,0,0.7);
-  background-size:cover;
-  color: #fff;
-  padding: 0 1em;
+h1,h2,h3 {
+  font-weight:bold !important;
 }
+
+p,ul,ol {
+  font-size: 120% !important;
+  line-height: 1.75 !important;
+}
+section {
+  font-size: 120% !important;
+}
+
