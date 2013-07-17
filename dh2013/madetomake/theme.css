@@ -28,23 +28,3 @@ header ul {
   color: #fff;
   padding: 0 1em;
 }
-
-section section {
-  font-size:1em;
-}
-
-.scholarslab {
-  background-image: url(arduino.jpg);
-}
-
-#scholarslab-makerspace-site {
-  background-image: url('scholarslab-makerspace-site.jpg');
-}
-
-#scholarslab-existingwork {
-  background-image: url('scholarslab-existingwork.jpg');
-}
-
-#scholarslab-looseparts {
-  background-image: url('scholarslab-looseparts.jpg');
-}

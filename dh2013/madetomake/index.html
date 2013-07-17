@@ -4,32 +4,25 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
   <title>Made to Make: Expanding Digital Humanities through Desktop Fabrication</title>
-  <!-- Don't alter this, CSSS needs it to work -->
-  <link href="slideshow.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <!-- Theme-specific styles go here (themes can be reused in multiple talks) -->
-<link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic|Noto+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link href="theme.css" rel="stylesheet">
-
-  <!-- Talk-specific styles go here -->
-  <link href="talk.css" rel="stylesheet">
-
-  <!-- Take care of prefixes -->
-  <script src="prefixfree.min.js"></script>
-  
+		<link rel="stylesheet" href="reveal.min.css">
+		<link rel="stylesheet" href="theme.css" id="theme">
 </head>
 <body>
-<header class="slide">
+<div class="reveal">
+  <div class="slides">
+<section class="slide">
   <h1>Made to Make</h2>
   <h2>Expanding Digital Humanities through Desktop Fabrication</h2>
 
-<h3>Digital Humanities 2013 | University of Nebraska-Lincoln | 18 July 2013</h3>
+  <h3>Digital Humanities 2013 | University of Nebraska-Lincoln | 18 July 2013</h3>
   <ul>
     <li>Jentery Sayers (University of Victoria | Maker Lab in the Humanities | @jenterysayers)</li>
     <li>Jeremy Boggs (University of Virginia | Scholars' Lab | @clioweb)</li>
     <li>Devon Elliott (Western University | Lab for Humanistic Fabrication | @devonelliott)</li>
   </ul>
-</header>
+</section>
 
 
 <section class="slide">
@@ -134,7 +127,7 @@
  <h1>12 | Exmaple Project: Maker Lab</h1> 
 </section>
 
-<section class="slide scholarslab" id="scholarslab-ethos">
+<section class="slide scholarslab" id="scholarslab-ethos" data-background="scholarslab-ethos.jpg">
   <h1>Makerspace at Scholars' Lab: Ethos</h1>
   <ul>
     <li>"Experimental Humanities"</li>
@@ -145,7 +138,7 @@
   </ul>
 </section>
 
-<section class="slide scholarslab" id="scholarslab-existingwork">
+<section class="slide scholarslab" id="scholarslab-existingwork" data-background="scholarslab-existingwork.jpg">
   <h1>Makerspace at Scholars' Lab: History</h1>
   <ul>
     <li>Successful use of 20% research time</li>
@@ -155,7 +148,7 @@
   </ul>
 </section>
 
-<section class="slide scholarslab" id="scholarslab-goals">
+<section class="slide scholarslab" id="scholarslab-goals" data-background="scholarslab-goals.jpg">
   <h1>Makerspace at Scholars' Lab: Goals</h1>
     <p>Make the labratory space more public and visible. Seeing
 people at work, enticing the curious, exposing the process.</p>
@@ -176,7 +169,7 @@ people at work, enticing the curious, exposing the process.</p>
     </ul>
 </section>
 
-<section class="slide scholarslab" id="scholarslab-looseparts">
+<section class="slide scholarslab" id="scholarslab-looseparts" data-background="scholarslab-looseparts.jpg">
   <h1>Makerspace at Scholars' Lab: Loose Parts</h1>
   <ul>
     <li>Makerbot Replicator 2</li>
@@ -189,20 +182,21 @@ people at work, enticing the curious, exposing the process.</p>
   </ul>
 </section>
 
-<section class="slide" id="scholarslab-makerspace-site"></section>
+<section class="slide" id="scholarslab-makerspace-site" data-background="scholarslab-makerspace-site.jpg"></section>
 
 <section class="slide">
  <h1>14 | Example Project: Lab for Humanistic Fabrication</h1> 
 </section>
 
-<script src="slideshow.js"></script>
+</div>
+</div>
+<script src="head.min.js"></script>
+		<script src="reveal.min.js"></script>
 
-<!-- Uncomment the plugins you need
-<script src="plugins/css-edit.js"></script>
-<script src="plugins/css-snippets.js"></script>
-<script src="plugins/css-controls.js"></script>
-<script src="plugins/code-highlight.js"></script>
--->
-<script>var slideshow = new SlideShow();</script>
+		<script>
+
+			Reveal.initialize();
+
+		</script>
 </body>
-</html
+</html>
