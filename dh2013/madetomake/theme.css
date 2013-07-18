@@ -1,13 +1,10 @@
 html {
   font-family: "Noto Serif", serif;
   color: #333;
-background:-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, #969696), color-stop(100%, transparent)) -1px 0 repeat-x,-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, rgba(200,200,200,0.5)), color-stop(100%, transparent)) -1px 0 repeat-x,-webkit-gradient(linear, 0% 50%, 1 50%, color-stop(100%, rgba(200,200,200,0.25)), color-stop(100%, transparent)) -1px 0 repeat-x;background:-webkit-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-webkit-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-webkit-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:-moz-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-moz-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-moz-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:-o-linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,-o-linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,-o-linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;-pie-background:linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;background:linear-gradient(left, #969696 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.5) 1px,transparent 1px) -1px 0 repeat-x,linear-gradient(left, rgba(200,200,200,0.25) 1px,transparent 1px) -1px 0 repeat-x;
-background-size:96px 30px, 12px 20px, 6px 15px;
 }
 
 section {
   background: rgba(255,255,255,0.9);
-  color: #333;
   padding: 3em;
 }
 
