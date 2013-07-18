@@ -23,10 +23,24 @@ h1,h2,h3 {
   font-weight:bold !important;
 }
 
-p,ul,ol {
+p,li {
   font-size: 120% !important;
   line-height: 1.75 !important;
 }
+
+a:link {color: #f53;}
+a:visited {color: #f53}
+a:hover,
+a:focus {color: #f74;
+}
+a:active {
+  color: #f85;
+}
+
+a.roll {
+  line-height: inherit !important;
+}
+
 section {
   font-size: 120% !important;
 }
