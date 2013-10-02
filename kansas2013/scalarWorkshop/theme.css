@@ -1,0 +1,47 @@
+html {
+  font-family: "Noto Serif", serif;
+  color: #333;
+}
+
+section {
+  background: rgba(255,255,255,0.9);
+  padding: 5em;
+}
+
+.slides {
+  width: 100%;
+}
+
+h1,h2,h3,p,ul,ol {
+  margin: 0 0 1em !important;
+}
+
+h1,h2,h3 {
+  font-weight:bold !important;
+}
+
+p,li {
+  font-size: 100% !important;
+  line-height: 1.75 !important;
+}
+
+a:link {color: #005b96; text-decoration: none;}
+a:visited {color: #005b96; text-decoration: none;}
+a:hover,
+a:focus {color: #6497b1; text-decoration: none;
+}
+a:active {
+  color: #6497b1; text-decoration: none;
+}
+
+a.roll {
+  line-height: inherit !important;
+}
+
+section {
+  font-size: 120% !important;
+}
+
+.transparent {
+  background: transparent !important;
+}
