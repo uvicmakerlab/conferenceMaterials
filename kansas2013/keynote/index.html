@@ -1,0 +1,269 @@
+24<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Fabrications, or How to Lie with Computer Vision | Jentery Sayers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic|Noto+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="reveal.min.css">
+		<link rel="stylesheet" href="theme.css" id="theme">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<section>
+
+<section id="title" data-background="skanect.png">
+  <h1>Fabrications, or<br/>How to Lie with Computer Vision</h1>
+ <h3>University of Kansas | 14 September 2013<br />
+  Digital Humanities Forum Keynote</h3>
+  <h3><a href="http://www.jenterysayers.com/" target="_blank">Jentery Sayers</a> | <a href="http://english.uvic.ca/" target="_blank">U. of Victoria</a> | <a href="https://twitter.com/jenterysayers" target="_blank">@jenterysayers</a></h3>
+  <p><strong>–– Use your spacebar or arrow keys to navigate this slidedeck. ––</strong><br />
+  <strong>Slidedeck revised 2 October 2013 for publication line.</strong><br />
+   <strong><a href="https://github.com/uvicmakerlab/conferenceMaterials/tree/gh-pages/kansas2013/keynote" target="_blank">Fork this presentation.</a></strong></p>
+</section>
+
+<section id="intro" data-background="skanect.png">
+<h3>image made using <a href="http://skanect.manctl.com/" target="_blank">Skanect</a>, c/o <a href="http://maker.uvic.ca/" target="_blank">The Maker Lab</a></h3>
+</section>
+
+</section>
+ 
+<section>
+
+<section class="transparent" id="helloworld" data-background="helloWorldFailedPrint.jpg"></section>
+
+<section id="today" data-background="helloWorldFailedPrint.jpg">
+  	<h1>Today</h1>
+  	<h3>Some example computer vision projects</h3>
+	<h3>The question of computer vision and culture</h3>
+	<h3>Some intersections with digital humanities</h3>
+	<h3>Two "Z-Axis" projects from The Maker Lab</h3> 
+</section> 
+
+</section>
+
+<section>
+
+ <section id="computervision" data-background="arduinoCV.jpg">
+  <h1>Computer Vision</h1>
+  <h3>the automated description and reconstruction<br />of the physical world through algorithms</h3> 
+  <h3>(image c/o <a href="http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/" target="_blank">Instructables</a>)</h3>
+</section> 
+
+ <section id="cvexamples" data-background="arduinoCV.jpg">
+  <h1>Some Examples</h1>
+</section>
+
+ <section id="captcha" data-background="captcha.png">
+  <h1>CAPTCHAs</h1>
+  <h3>Completely Automated Public Turing test<br />to tell Computers and Humans Apart</h3>
+  <h3>(image c/o <a href="http://www.softwaresecretweapons.com/jspwiki/attach/WaterCap_Strong_PHP_CAPTCHA_With_Negative_Spaces_And_Shadows/other.png" target="_blank">Pavel Simakov</a>;<br />CAPTCHA c/o Carnegie Mellon)</h3> 
+</section>
+
+<section id="detection" data-background="facedetection.png">
+  <h1>Face Detection</h1>
+  <h3>(<a href="https://vimeo.com/12774628" target="_blank">video</a> by Adam Harvey)</h3>
+  </section>
+
+   <section class="transparent" id="facedetection" data-background="facedetection.png">
+<iframe src="//player.vimeo.com/video/12774628" width="750" height="716" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></section>
+
+ <section id="catch" data-background="catch.png">
+  <h1>Photogrammetry</h1>
+  <h3>Stitching together component parts</h3>
+  <h3>(image made w/ <a href="http://www.123dapp.com/catch" target="_blank">123D Catch</a>, c/o <a href="http://maker.uvic.ca/" target="_blank">The Maker Lab</a>)</h3> 
+</section> 
+
+ <section id="crowdsourced3D" data-background="linked.jpg">
+  <h1>Crowdsourced<br />Sculpture</h1>
+  <h3>Assembling custom parts made<br />across geographical distance</h3>
+  <h3>(image c/o <a href="http://www.printtopeer.com/sculpture" target="_blank">PrintToPeer</a> + <a href="http://jeffdeboer.com/" target="_blank">Jeff de Boer</a>)</h3> 
+</section>
+
+ <section id="surveillance" data-background="surveillance.png">
+  <h1>Surveillance Forensics</h1>
+  <h3>extract trajectories and snapshots from video</h3>
+  <h3>(image c/o <a href="http://www.computervisiononline.com/dataset/3dpes-people-surveillance-dataset" target="_blank">Computer Vision Online</a>)</h3>
+</section>
+
+ <section id="uav" data-background="arduwiino.jpg">
+  <h1>Unmanned AVs</h1>
+  <h3>point-and-click waypoints and scripted missions</h3>
+  <h3>(image c/o <a href="http://www.rcgroups.com/forums/showthread.php?t=1332876" target="_blank">RCGroups</a>; see also <a href="http://diydrones.com/" target="_blank">DIY Drones</a>)</h3>
+</section>
+
+ <section id="minsky" data-background="minskytron.jpg">
+  <h1>Marvin Minsky and Gerald Jay Sussman</h1>
+  <h3>"linking a camera to a computer and getting the camera to describe what it saw"</h3>
+  <h3>(ca. 1966, at MIT | see <a href="http://szeliski.org/Book/" target="_blank">Szeliski 2010</a>)</h3> 
+</section>
+</section>
+
+<!-- section id="winston" data-background="physchologyOfComputerVision.jpg">
+<h1>Patrick Henry Winston</h1> 
+<h3>" 
+(1970s, MIT, see Winston 1975)
+</section>
+<section id=marr" data-background=" ">
+<h1>David Marr</h1> 
+<h3>" 
+(1982, )
+</section--> 
+
+<section>
+<section class="transparent" id="printrbot" data-background="dhsi2013PrinterModelUVic.png"></section> 
+<section id="culture" data-background="dhsi2013PrinterModelUVic.png">
+<h1>Computer Vision:<br />Cultural Perspectives</h1> 
+<h3>What's at stake? Politically? Aesthetically?</h3> 
+</section> 
+
+<section class="transparent" id="gif" data-background="spring.gif"></section> 
+<section id="sensorvernacular" data-background="spring.gif">
+<h1>Sensor Vernacular</h1> 
+<h3>the grain of seeing, the grain of computation</h3> 
+<h3>(see Jones 2011; also, Berry 2013)</h3> 
+</section> 
+
+<section class="transparent" id="bridle" data-background="shipAdrift.png"></section> 
+<section id="newaesthetic" data-background="shipAdrift.png">
+<h1>New Aesthetic</h1> 
+<h3>machine vision supplants human vision</h3> 
+<h3>(see Bridle 2011)</h3> 
+</section> 
+
+<section class="transparent" id="womenofENIAC" data-background="womenOfENIAC.jpg"></section> 
+<section id="ENIAC" data-background="womenOfENIAC.jpg">
+<h1>The Women of ENIAC</h1> 
+<h3>"nameless disappearing computer operators"</h3> 
+<h3>(1940s, Penn + Aberdeen | see Chun 2011)</h3> 
+</section>
+
+<section class="transparent" id="biometrics" data-background="sbrowne.png"></section> 
+<section id="browne" data-background="sbrowne.png">
+<h1>Biometrics</h1> 
+<h3>"falsify the idea that certain surveillance technologies and their application<br /> are always neutral"</h3> 
+<h3>(see Browne 2010)</h3> 
+</section>
+
+<section class="transparent" id="open" data-background="opencv2.png"></section> 
+<section id="opencv" data-background="opencv2.png">
+<h1>OpenCV</h1> 
+<h3>"make it easy to experiment with<br /> the most common computer vision tools"</h3> 
+<h3>(see Borenstein 2013)</h3> 
+</section> 
+</section> 
+
+<section>
+<section class="transparent" id="parts" data-background="dhsi2013Printer3UVic.jpg"></section> 
+<section id="dh" data-background="dhsi2013Printer3UVic.jpg">
+<h1>Learning from<br />Existing DH Projects</h1> 
+<h3>speculative computing and expressive models</h3> 
+</section> 
+
+<section class="transparent" id="speculative" data-background="speccomputing.png"></section> 
+<section id="speccpu" data-background="speccomputing.png">
+<h1>Speculative Computing</h1> 
+<h3>"place the hermeneutic inside a visual and algorithmic system"</h3>
+<h3>(see Drucker and Nowviskie 2004)</h3> 
+</section> 
+
+<section class="transparent" id="marksample" data-background="sample.png"></section> 
+<section id="sample" data-background="sample.png">
+<h1>Non-Consumptive Reading</h1> 
+<h3>"Make the computer model itself<br /> an expressive object."</h3>
+<h3>(see Sample 2013)</h3> 
+</section> 
+</section>
+
+<section>
+<section class="transparent" id="glitch" data-background="glitch.jpg"></section> 
+<section id="mlab" data-background="glitch.jpg">
+<h1>Z-Axis in the MLab</h1> 
+<h3>two example Maker Lab projects</h3>
+<h3>(image care of Jon Olaf Johnson)</h3> 
+</section> 
+
+<section class="transparent" id="warpedmaps" data-background="zposter.png"></section> 
+<section id="maps" data-background="zposter.png">
+<h1>Warped Modernisms</h1> 
+<h3>z-axis attempts to express time spent reading</h3>
+<h3>(sparked by Alex Christie, Arthur Hain, <br />and Katie Tanigawa 2013)</h3> 
+</section> 
+
+<section class="transparent" id="map1" data-background="mapbirdeye.jpg"></section>
+<section class="transparent" id="map2" data-background="tornado.jpg"></section>
+
+<section class="transparent" id="kitposter" data-background="kit.png"></section>
+<section id="kit" data-background="kit.png">
+<h1>Stereoscope Kit</h1> 
+<h3>history of the senses through<br />an awareness of the mechanism</h3>
+<h3>(in collaboration with <br />Devon Elliott, Shaun Macpherson,<br /> Katie McQueston, and Bill Turkel)</h3> 
+</section> 
+
+<section class="transparent" id="stereo4" data-background="levitation.gif"></section> 
+<section class="transparent" id="anaglyph" data-background="anaglyph.jpg"></section> 
+<section class="transparent" id="stereo2" data-background="stereo2.gif"></section> 
+<section class="transparent" id="stereo1" data-background="stereo1.png"></section> 
+<section class="transparent" id="stereo3" data-background="stereo3.png"></section>
+
+<section class="transparent" id="z" data-background="end.png"></section> 
+<section id="zaxis" data-background="end.png">
+<h1>Humanities on <br />the Z-Axis</h1> 
+<h3>depth | speculation | mediation | embodiment</h3>
+<h3>(image care of Arthur Hain)</h3>
+</section>
+
+<section id="team" data-background="mlabteam.png">
+<h1>Thank you, Maker Lab team.</h1>
+<h3>Special thanks to Nina Belojevic, Alex Christie, Devon Elliott, Arthur Hain, Jon Johnson,<br /> Shaun Macpherson, Katie McQueston, Katie Tanigawa, and Zaqir Virani</h3>
+<h3>Also to the Social Sciences and Humanities<br />Research Council and the Canadian Foundation<br />for Innovation</h3> 
+</section>
+
+
+<section id="thanks">
+  <h1>Thank You, #dhforum2013.</h1>
+  <h3>Special thanks to Arienne Dwyer, Brian Rosenblum, Germaine Halegoua, Whitney Trettien, Colin Allen, Alex Gil, and the IDRH.</h3>
+  <h3>Keep in touch.</h3><h3><a href="https://twitter.com/jenterysayers" target="_blank">@jenterysayers</a> | <a href="mailto:jentery@uvic.ca">jentery@uvic.ca</a> | <a href="http://maker.uvic.ca/" target="_blank">maker.uvic.ca</a></h3>
+</section> 
+
+<section id="images">
+<h1>Image Sources</h1>
+<p align="left">
+1a  | Jentery Sayers, produced using <a href="http://skanect.manctl.com/" target="_blank">Skanect</a><br />
+1b  | Jentery Sayers, produced using <a href="http://skanect.manctl.com/" target="_blank">Skanect</a><br />	
+2   | "Hello World" print, care of <a href="http://maker.uvic.ca/popups/" target="_blank">the Maker Lab</a><br />
+3a  | Arduino computer vision build, care of <a href="http://www.instructables.com/id/Face-detection-and-tracking-with-Arduino-and-OpenC/" target="_blank">Instructables</a><br />
+3b  | Minskytron, care of <a href="http://en.wikipedia.org/wiki/File:Minskytron-PDP-1-20070512.jpg" target="_blank">Joi Ito and Wikipedia</a><br />
+3c  | Women of ENIAC, care of <a href="http://www.npr.org/2011/11/11/142227097/addressing-the-shortage-of-women-in-silicon-valley" target="_blank">npr.org</a><br /> 
+<p>Images used for educational, not-for-profit purposes only.</p>
+</section>
+<section id="references">
+<h1>References</h1>
+<p align="left">
+Chun, Wendy Hui Kyong. 2011. <a href="http://mitpress.mit.edu/books/programmed-visions" target="_blank"><em>Programmed Visions: Software and Memory</em></a><br /> 
+Szeliski, Richard. 2009. <a href="http://szeliski.org/Book/" target="_blank"><em>Computer Vision: Algorithms and Applications</em></a>.
+</section>
+</div>
+</div>
+<script src="head.min.js"></script>
+		<script src="reveal.min.js"></script>
+
+		<script>
+
+			Reveal.initialize({
+        transition: 'concave',
+        backgroundTransition: 'fade',
+        transitionSpeed: "slow",
+        controls: true,
+        history: true,
+        touch: true, 
+        overview: true, 
+        center: true,  
+        rollingLinks: false // ANNOYING
+      });
+
+		</script>
+</body>
+</html>
