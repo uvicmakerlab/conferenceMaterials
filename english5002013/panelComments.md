@@ -35,7 +35,7 @@ I've learned A LOT. Here are a few things (among many, many others):
 * Conducting research about media and technologies is all the richer when you know more about their material particulars, or how they turn this into that.  
 * We need to do a lot more work where technologies and social/cultural difference are concerned. Technologies frequently foster exclusion (e.g., through white privilege and masculine culture). But there's nothing inherent to technologies that means such exclusions are inevitable. In the humanities and elsewhere, we can change the norms that congeal in and around tech. For instance, groups like [#TransformDH](http://transformdh.org/) are actively engaging issues anchored in race, ethnicity, gender, sexuality, and class. And the Maker Lab is guest-editing a special issue of *New American Notes Online* about digital humanities, public humanities, and social justice. It should be out in late 2013 / early 2014.  
 
-5. Can you offer an example of a noteworthy digital humanities project? What makes this project so interesting to you?
+## Can you offer an example of a noteworthy digital humanities project? What makes this project so interesting to you?
 
 Where to start? Here's a list of recent projects (excluding what's already referenced above) that inspire me: 
 
