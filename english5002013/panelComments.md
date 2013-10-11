@@ -1,6 +1,6 @@
-# English 500 Panel (Erin Kelly's Seminar, 11 October 2013) 
+# English 500 Panel (Erin Kelly's Seminar @ UVic) 
 
-Jentery's responses: 
+11 October 2013, 3:30 pm (with Stephen Ross and Aaron Mauro) 
 
 ## To you, what is digital humanities?
 
