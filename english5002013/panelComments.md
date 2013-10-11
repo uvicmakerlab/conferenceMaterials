@@ -6,9 +6,9 @@
 
 Blending technical competencies in computing with critical approaches to culture (broadly understood). Most digital humanities research is collaborative in character, with practitioners documenting, sharing, and versioning the iterative development of their projects. 
 
-For example, see the [Maker Lab's GitHub repositories](https://github.com/uvicmakerlab) for a sense of how projects unfold (often publicly) over time. Alongside this project development, we also conduct free workshops (frequently intended for graduate students) and circulate brief essays (via [maker.uvic.ca](http://maker.uvic.ca/)) on the status of our research. These essays articulate the questions, surprises, and curiosities we're unpacking at a given moment. 
+For example, see the [Maker Lab's GitHub repositories](https://github.com/uvicmakerlab) for a sense of how our projects unfold (often publicly) over time. Alongside this project development, we also conduct free workshops (frequently intended for graduate students) and circulate brief essays (via [maker.uvic.ca](http://maker.uvic.ca/)) on the status of our research. These essays articulate the questions, surprises, and curiosities we're unpacking at a given moment. 
 
-Once a given project is polished and released, we author journal articles and book chapters on how our research contributes to digital humanities (in general) or a particular subfield (e.g., media studies, scholarly communication, or literary modernism). Here's [one example](http://www.digitalstudies.org/ojs/index.php/digital_studies/article/view/234/301), from *Digital Studies / Le champ numérique*. This article is based on research I conducted with Craig Dietrich and the Scalar team at USC.  
+Once a given project is polished and released, we author journal articles and book chapters on how our research contributes to digital humanities (in general) or an allied field (e.g., media studies, scholarly communication, or literary modernism). Here's [one example](http://www.digitalstudies.org/ojs/index.php/digital_studies/article/view/234/301), from *Digital Studies / Le champ numérique*. This article is based on research I conducted with Craig Dietrich and the Scalar team at USC.  
 
 2. What digital humanities project (or projects) are you currently working on?
 
