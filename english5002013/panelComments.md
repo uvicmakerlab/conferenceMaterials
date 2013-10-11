@@ -1,6 +1,6 @@
-# English 500 Panel (Erin Kelly's Seminar @ UVic) 
+# English 500 Panel (Erin Kelly's Seminar) 
 
-11 October 2013, 3:30 pm (with Stephen Ross and Aaron Mauro) 
+11 October 2013, 3:30 pm (with Stephen Ross and Aaron Mauro) at UVic
 
 ## To you, what is digital humanities?
 
