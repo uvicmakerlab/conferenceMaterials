@@ -44,7 +44,7 @@ Where to start? Here's a list of recent projects (excluding what's already refer
 * [The Real Face of White Australia](http://invisibleaustralians.org/faces/) 
 * [*Computational Culture: A Journal of Software Studies*](http://computationalculture.net/) 
 * [*Programmed Visions: Software and Memory*](http://mitpress.mit.edu/books/programmed-visions), by Wendy Chun (DH folks write monographs, too!) 
-* [*Mechanisms: New Media and the Forensic Imagination*], by Matthew Kirschenbaum
+* [*Mechanisms: New Media and the Forensic Imagination*](http://mitpress.mit.edu/books/mechanisms), by Matthew Kirschenbaum
 * [Bracero Archive](http://braceroarchive.org/) 
 * [Play the Past](http://www.playthepast.org/)
 * [Rewriting Wikipedia](http://dhpoco.org/rewriting-wikipedia/) 
