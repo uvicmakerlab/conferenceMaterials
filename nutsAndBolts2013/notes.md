@@ -16,9 +16,13 @@
 * In fields like digital humanities and media studies, do we have a model for something like an Extended Producer Responsibility (EPR)? If not, what should it entail? 
 * How (if at all) does cloud computing affect our perceptions of e-waste and its production? Could it reduce e-waste? Could it increase it? 
 * How is the proliferation of tablets and mobile devices influencing the perception and production of e-waste? 
-* 
 
 # Some Creative + Critical Approaches 
+
+* Developing partnerships between DH initiatives/groups and surplus facilities on their campuses 
+* Community "challenges" to repurpose dead media / technologies  
+* NSERC applications (how do they address waste; what are eligible expenses) 
+* Environmental law (investigating histories of waste regulation) 
 
 # References 
 
